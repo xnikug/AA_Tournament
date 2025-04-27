@@ -1,4 +1,4 @@
-# Pseudo-Random Strategy
+# Unstable Forgiving Tit-For-Tat Strategy
 
 This strategy simulates pseudo-random behavior based on the history of moves in a prisoner's dilemma game.
 
